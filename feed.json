@@ -2,27 +2,27 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Neorotribe",
     "description": "",
-    "home_page_url": "http://www.neorotribe.com",
-    "feed_url": "http://www.neorotribe.com/feed.json",
+    "home_page_url": "https://www.neorotribe.com",
+    "feed_url": "https://www.neorotribe.com/feed.json",
     "user_comment": "",
     "author": {
-        "name": "June Ong"
+        "name": "June"
     },
     "items": [
         {
-            "id": "http://www.neorotribe.com/my-first-post.html",
-            "url": "http://www.neorotribe.com/my-first-post.html",
+            "id": "https://www.neorotribe.com/my-first-post.html",
+            "url": "https://www.neorotribe.com/my-first-post.html",
             "title": "My First Post",
             "summary": "Howdy! This is me!",
-            "content_html": "<p>Howdy! This is me!</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"http://www.neorotribe.com/media/posts/1/_DSC4534.jpg\" sizes=\"(max-width: 768px) 100vw, 1360px\" srcset=\"http://www.neorotribe.com/media/posts/1/responsive/_DSC4534-xs.jpg 300w ,http://www.neorotribe.com/media/posts/1/responsive/_DSC4534-sm.jpg 480w ,http://www.neorotribe.com/media/posts/1/responsive/_DSC4534-md.jpg 768w ,http://www.neorotribe.com/media/posts/1/responsive/_DSC4534-lg.jpg 1024w ,http://www.neorotribe.com/media/posts/1/responsive/_DSC4534-xl.jpg 1360w\"  alt=\"\" width=\"1800\" height=\"1200\"></figure>",
-            "image": "http://www.neorotribe.com/media/posts/1/_DSC4534-2.jpg",
+            "content_html": "<p>Howdy! This is me!</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.neorotribe.com/media/posts/1/_DSC4534.jpg\" sizes=\"(max-width: 768px) 100vw, 1360px\" srcset=\"https://www.neorotribe.com/media/posts/1/responsive/_DSC4534-xs.jpg 300w ,https://www.neorotribe.com/media/posts/1/responsive/_DSC4534-sm.jpg 480w ,https://www.neorotribe.com/media/posts/1/responsive/_DSC4534-md.jpg 768w ,https://www.neorotribe.com/media/posts/1/responsive/_DSC4534-lg.jpg 1024w ,https://www.neorotribe.com/media/posts/1/responsive/_DSC4534-xl.jpg 1360w\"  alt=\"\" width=\"1800\" height=\"1200\"></figure>",
+            "image": "https://www.neorotribe.com/media/posts/1/_DSC4534-2.jpg",
             "author": {
-                "name": "June Ong"
+                "name": "June"
             },
             "tags": [
             ],
-            "date_published": "2020-09-05T09:54:39+10:00",
-            "date_modified": "2020-09-05T09:54:39+10:00"
+            "date_published": "2020-09-05T10:58:47+10:00",
+            "date_modified": "2020-09-05T10:58:47+10:00"
         }
     ]
 }
