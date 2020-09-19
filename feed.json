@@ -5,11 +5,25 @@
     "home_page_url": "https://www.neorotribe.com",
     "feed_url": "https://www.neorotribe.com/feed.json",
     "user_comment": "",
-    "icon": "https://www.neorotribe.com/media/website/neorotribe-logo-2.png",
+    "icon": "https://www.neorotribe.com/media/website/neorotribe-logo-1-2.png",
     "author": {
         "name": "June"
     },
     "items": [
+        {
+            "id": "https://www.neorotribe.com/review-kidizoom-duo-50-camera.html",
+            "url": "https://www.neorotribe.com/review-kidizoom-duo-50-camera.html",
+            "title": "Review: Kidizoom Duo 5.0 Camera",
+            "summary": "Lily received a Kidizoom camera from Grandma this year for her birthday. She specifically asked for a pink camera. Levi&hellip;",
+            "content_html": "<p>Lily received a Kidizoom camera from Grandma this year for her birthday. She specifically asked for a pink camera. Levi has been playing with his own camera for a while now so it is a no-brainer that Lily would want her own.</p>\n<p> </p>",
+            "author": {
+                "name": "June"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-19T17:59:41+10:00",
+            "date_modified": "2020-09-19T17:59:41+10:00"
+        },
         {
             "id": "https://www.neorotribe.com/taronga-zoo.html",
             "url": "https://www.neorotribe.com/taronga-zoo.html",
@@ -21,8 +35,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-13T01:07:40+10:00",
-            "date_modified": "2020-09-13T01:07:40+10:00"
+            "date_published": "2020-09-19T17:59:41+10:00",
+            "date_modified": "2020-09-19T17:59:41+10:00"
         },
         {
             "id": "https://www.neorotribe.com/review-hills-swimming.html",
@@ -35,8 +49,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-13T01:07:40+10:00",
-            "date_modified": "2020-09-13T01:07:40+10:00"
+            "date_published": "2020-09-19T17:59:41+10:00",
+            "date_modified": "2020-09-19T17:59:41+10:00"
         },
         {
             "id": "https://www.neorotribe.com/authentic-happiness.html",
@@ -51,8 +65,8 @@
                    "Parenting",
                    "Marriage"
             ],
-            "date_published": "2020-09-13T01:07:40+10:00",
-            "date_modified": "2020-09-13T01:07:40+10:00"
+            "date_published": "2020-09-19T17:59:41+10:00",
+            "date_modified": "2020-09-19T17:59:41+10:00"
         },
         {
             "id": "https://www.neorotribe.com/play.html",
@@ -66,8 +80,8 @@
             "tags": [
                    "Parenting"
             ],
-            "date_published": "2020-09-13T01:07:40+10:00",
-            "date_modified": "2020-09-13T01:07:40+10:00"
+            "date_published": "2020-09-19T17:59:41+10:00",
+            "date_modified": "2020-09-19T17:59:41+10:00"
         },
         {
             "id": "https://www.neorotribe.com/test.html",
@@ -81,8 +95,8 @@
             "tags": [
                    "Parenting"
             ],
-            "date_published": "2020-09-13T01:07:40+10:00",
-            "date_modified": "2020-09-13T01:07:40+10:00"
+            "date_published": "2020-09-19T17:59:41+10:00",
+            "date_modified": "2020-09-19T17:59:41+10:00"
         },
         {
             "id": "https://www.neorotribe.com/theres-no-tv-in-our-home.html",
@@ -96,8 +110,8 @@
             "tags": [
                    "Parenting"
             ],
-            "date_published": "2020-09-13T01:07:40+10:00",
-            "date_modified": "2020-09-13T01:07:40+10:00"
+            "date_published": "2020-09-19T17:59:41+10:00",
+            "date_modified": "2020-09-19T17:59:41+10:00"
         },
         {
             "id": "https://www.neorotribe.com/my-first-post.html",
@@ -110,8 +124,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-13T01:07:40+10:00",
-            "date_modified": "2020-09-13T01:07:40+10:00"
+            "date_published": "2020-09-19T17:59:41+10:00",
+            "date_modified": "2020-09-19T17:59:41+10:00"
         }
     ]
 }
