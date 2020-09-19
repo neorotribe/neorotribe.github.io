@@ -46,7 +46,7 @@ textarea {
   --font-weight-normal: 400;
   --font-weight-bold: 600;
   --headings-weight: 600;
-  --tiffany: #BFD9D7;
+  --light-brown: #E1D2BE;
   --white: #FFFFFF;
   --black: #000000;
   --dark: #101011;
@@ -142,7 +142,7 @@ html.no-scroll {
 }
 
 body {
-  background: var(--tiffany);
+  background: var(--light-brown);
   color: var(--text-color);
   font-family: var(--body-font);
   font-weight: var(--font-weight-normal);
@@ -758,7 +758,7 @@ textarea {
 }
 
 .header {
-  background:#E1D2BE;
+  background: #EDEBE6;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -1723,8 +1723,7 @@ textarea {
 }
 .c-card__tag {
   font-weight: var(--font-weight-bold);
-  font-size: 0.6901234568rem;
-  padding: 0rem 0rem 0rem 0rem;
+  font-size: 0.7901234568rem;
 }
 .c-card__title {
   font-size: 1rem;
@@ -2157,15 +2156,16 @@ textarea {
 }
 
 .footer {
-  background: #F3B340;
+  background: var(--lighter);
   border-radius: var(--border-radius);
-  padding: 4rem 0 4rem;
+  padding: 4rem 0 3rem;
   margin: 4.5rem 0 0;
   text-align: center;
 }
 .footer__copyright {
   color: var(--gray-2);
   font-size: 0.7901234568rem;
+  padding: 1rem 0;
 }
 .footer__social > a {
   display: inline-block;
