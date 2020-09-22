@@ -23,8 +23,8 @@ li {
 }
 
 img {
-  height: 400px;
   width: auto;
+  max-width: 100%;
   vertical-align: top;
 }
 
