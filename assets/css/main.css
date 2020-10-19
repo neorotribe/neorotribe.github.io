@@ -1796,7 +1796,7 @@ textarea {
 }
 
 .u-header {
-  background-color: rgba(255,255,255,0.5);
+  background-color: rgba(255,255,255,0.7);
   border-radius: var(--border-radius);
   padding: 0.5571428571rem 0.7285714286rem 0;
   position: relative;
@@ -1993,7 +1993,7 @@ textarea {
 }
 .c-card__image::after {
   background: -o-linear-gradient(245deg, rgba(255, 255, 255, 0) 0%, var(--color) 100%);
-  background: linear-gradient(205deg, rgba(255, 255, 255, 0) 0%, var(--color) 100%);
+  background: linear-gradient(205deg, rgba(255, 255, 255, 0) 0%, var(--color) 200%);
   content: "";
   height: 100%;
   left: 0;
